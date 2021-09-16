@@ -78,10 +78,6 @@ function my_keydown(e){
         new_image('ground.png');
         console.log("g");
     }
-    if(keypress == '76'){
-        new_image('light_green.png');
-        console.log("l");
-    }
     if(keypress == '84'){
         new_image('trunk.jpg');
         console.log("t");
